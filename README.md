@@ -30,7 +30,7 @@ which can be solved and normalized, removing the constant of integration, formin
 
 where λ=1/nσ and λ is the mean free path [4]. The area σ has no physical or geometric significance due to the collisions being purely quantum mechanical interactions, so σ is determined experimentally. It is also noted that σ is not a constant and will depend on many factors such as the energy of the neutron and the temperature of the shielding [5]. This report will only look at thermal neutrons; neutrons that have similar energy to the internal energy of the material. There are also fast neutrons, which have much higher energy than the material they move into and are important to consider in more complex systems.
 
-### <img>
+### ![image](figures/fig1.PNG)
 
 Once a collision occurs many different processes can occur such as fission, elastic scattering, inelastic scattering, absorption and even more; each of these interactions has a corresponding area [5]. This report will keep things simple and only look at elastic scattering and absorption, therefore the total collision area is,
 
